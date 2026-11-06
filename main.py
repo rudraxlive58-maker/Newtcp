@@ -32,8 +32,8 @@ def get_random_color():
 async def MaiiiinE():
     global bot_uid, ToKen, region
 
-    Uid = '8335563036'
-    Pw = 'APQL9RHLGEI6IZR1Z53AR0HHLQPLJOPYMOGHVAVMT70WPDI7RYK89AU4OITJPWZL'
+    Uid = '8340659666495'
+    Pw = 'AE29CAB711AF1A121EA078DCB0A9962A25E28hhhh3BEBE3F5594216D75320A47243B'
     REGION_PREF = "IND"
 
     print_banner()
