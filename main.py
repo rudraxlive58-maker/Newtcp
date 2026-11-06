@@ -32,9 +32,9 @@ def get_random_color():
 async def MaiiiinE():
     global bot_uid, ToKen, region
 
-    Uid = '8333700154'
-    Pw = 'Nalul_B33EBK46W6_G43UM'
-    REGION_PREF = "BD"
+    Uid = '8335563036'
+    Pw = 'APQL9RHLGEI6IZR1Z53AR0HHLQPLJOPYMOGHVAVMT70WPDI7RYK89AU4OITJPWZL'
+    REGION_PREF = "IND"
 
     print_banner()
     log("INFO", "লগইন প্রক্রিয়া শুরু হচ্ছে ...")
